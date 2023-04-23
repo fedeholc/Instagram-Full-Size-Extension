@@ -1,4 +1,4 @@
-# Instagram Full Size Photos (Chrome extension) v0.1
+# Instagram Full Size Photos (Chrome extension) v0.0.1
 
 Google Chrome extension to view instagram photos at full size.
 
