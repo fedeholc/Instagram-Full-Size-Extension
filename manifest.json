@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Instagram Full Size",
+  "name": "Instagram Full Size Photos (Chrome extension)",
   "version": "0.1",
   "description": "Extension to view instagram photos at full size. / Extensión para ver las fotos de instagram a tamaño completo.",
   "permissions": ["scripting", "activeTab"],
